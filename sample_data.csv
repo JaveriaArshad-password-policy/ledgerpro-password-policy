@@ -1,0 +1,5 @@
+email,department,client_name,invoice_id,password_test,expected_result
+ali.ahmed@ledgerpro.pk,Senior Auditor,Al-Hamd Traders,INV-LP-2025-1045,Audit2025!Secure_Pk,valid
+sara.khan@ledgerpro.pk,Tax Consultant,Crescent Textiles Pvt Ltd,INV-LP-2025-1046,Tax@2025Lahore#,valid
+bilal.riaz@ledgerpro.pk,Junior Accountant,City Booksellers,INV-LP-2025-1047,ledgerpro123,invalid - contains company name
+finance@ledgerpro.pk,Accounts Head,Shadman General Store,INV-LP-2025-1048,Finance#2025PK,valid
